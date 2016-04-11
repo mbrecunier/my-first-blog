@@ -1,6 +1,6 @@
 # Django Girls Blog Project
 
-#### A Blog Created with the Django Girls Tutorial, 8/8/16
+#### A Blog Created with the Django Girls Tutorial, 8/8/15
 
 #### By Michelle Brecunier
 
